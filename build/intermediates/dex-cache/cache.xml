@@ -3,102 +3,57 @@
 
     <item
         is-multidex="false"
-        jar="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_dd47af589174b20ea24cafe0fb7ffd99cd26e313.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1f8ca55128d1adb147788bd88543270d1f5f9bd1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_7fec63722029117d31514c05bceafdb18f99e295.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_7df0f898b0f94f80230b34fb60d5852aa57f40b9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1c326ba6b4bee7832d95d20a730979ca84ab221f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_00d538c3268febaee947829f7f27eb012102e254.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="1e6802632e81e07115e83275c19e017982afcd5d">
-        <dex dex="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_dae4faddb45473c4faf97f145773d2525581143f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="D:\prafulla\rnd\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_91a54ea3a1ee077c1c69697d8f07a2ea8ebe0b4b.jar" />
+        <dex dex="D:\prafulla\rnd\DemoWebview\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e807b9dac42712ba31c2cec31fcdf5c8279a4fc1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jar="D:\prafulla\rnd\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\prafulla\rnd\DemoWebview\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_48939ddd9404f08faecdda0ffa85af9cc16750f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\prafulla\rnd\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_75ebceec63d57d9d3b4709c4f06d4753b9278216.jar" />
+        <dex dex="D:\prafulla\rnd\DemoWebview\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_ac55248e199f9d283dac999c9215dd471f23008c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="D:\prafulla\rnd\DemoWebview\app\build\intermediates\exploded-aar\com.mikhaellopez\circularprogressbar\1.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_34feb7253a89feea8e447ff2189539affc6fc642.jar" />
+        sha1="bf3c6cdf3e1aa3b54debc3026480fcdf1e506df5">
+        <dex dex="D:\prafulla\rnd\DemoWebview\app\build\intermediates\pre-dexed\debug\com.mikhaellopez-circularprogressbar-1.1.1_e96209b99bf33d4bba505709b90c403e8fc3c3ef.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="D:\prafulla\rnd\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="8973d13f1690eb6dad751f64b2592c025df8a051">
-        <dex dex="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\pre-dexed\debug\instant-run_20837a317ed24d668d9f4cdfd747bda34dad16bb.jar" />
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\prafulla\rnd\DemoWebview\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_ecbfc866b50e0036ac119c87b7bbe8e1901a5ced.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\prafulla\rnd\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\prafulla\rnd\DemoWebview\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_5a0402091429161fbce80400c0c92247e98ba9a8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -107,61 +62,106 @@
         optimize="true"
         revision="24.0.2"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_ed67009fcfcd16b46fa363be0ab2340619cc9478.jar" />
+        <dex dex="D:\prafulla\rnd\DemoWebview\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_ed67009fcfcd16b46fa363be0ab2340619cc9478.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\exploded-aar\com.mikhaellopez\circularprogressbar\1.1.1\jars\classes.jar"
+        jar="D:\prafulla\rnd\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="bf3c6cdf3e1aa3b54debc3026480fcdf1e506df5">
-        <dex dex="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\pre-dexed\debug\com.mikhaellopez-circularprogressbar-1.1.1_9546e7c1bcc74106861f27d538ade813fc79c17c.jar" />
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\prafulla\rnd\DemoWebview\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_f77937ffcf97ae657655cf3238a7b6cc42a16528.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="D:\prafulla\rnd\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\prafulla\rnd\DemoWebview\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_61461c4ad3ecf233151026394c6ee2536b166287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\prafulla\rnd\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2e5b1ef8c2d1e689fc37845ad2f1b43882997005.jar" />
+        <dex dex="D:\prafulla\rnd\DemoWebview\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7937860a29d64ab37d6e860acfe5b8647ffa0619.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_635bb1462fde305d3ede157e6583bbb594c0ec4a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jar="D:\prafulla\rnd\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_6089c01b65274b83f5cb26016149c05e55edbe8a.jar" />
+        <dex dex="D:\prafulla\rnd\DemoWebview\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_6edd55117bf5cfccfe4b227b8f8594db6feea7a5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jar="D:\prafulla\rnd\DemoWebview\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_85506e10e790cabb25d84598ed4c378126038816.jar" />
+        sha1="8540be89d1ef6301f5f74b4971305713adb02ab0">
+        <dex dex="D:\prafulla\rnd\DemoWebview\app\build\intermediates\pre-dexed\debug\instant-run_8a1fdf0fe2679e7afc326634dc2ad162a4da8b5a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jar="D:\prafulla\rnd\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="D:\prafulla\rnd\demoProgressbar\DemoWebview\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_bf1fe79bdd5101d94fbae4f2b13142ddf7655fdc.jar" />
+        <dex dex="D:\prafulla\rnd\DemoWebview\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_b7a2939bd65c0d3e9fd2107afff1e23e0e7b9d26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\prafulla\rnd\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\prafulla\rnd\DemoWebview\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_61a7cfcf037ef0d2623f4a1cd9a3bdbdfebdfea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\prafulla\rnd\DemoWebview\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="20896844b18901e78beac46f1ae93e9c53879a14">
+        <dex dex="D:\prafulla\rnd\DemoWebview\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_259e0e1cecd2c42133995b5c98139597eb844e0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\prafulla\rnd\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\prafulla\rnd\DemoWebview\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e241059fff65f2218da13cb86561c6b6a1cefb89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\prafulla\rnd\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\prafulla\rnd\DemoWebview\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_054cf18fc635c2de01c03ba871da83d6d271914a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\prafulla\rnd\DemoWebview\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\prafulla\rnd\DemoWebview\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_53020961766c098194dc78606800c0aadb313812.jar" />
     </item>
 
 </items>
