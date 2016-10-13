@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF4081</color>
+    <color name="colorPrimaryDark">#212021</color>
+    <color name="colorAccent">#FFD331</color>
+    <color name="progressBarColor">#000000</color>
+    <color name="backgroundProgressBarColor">#afaeae</color>
+
+</resources>
